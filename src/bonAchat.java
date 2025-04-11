@@ -9,7 +9,7 @@ public class bonAchat {
         this.idBonAchat = idBonAchat;
         this.pourcentageReduction = pourcentageReduction;
     }
-d
+
     public int getIdBonAchat() {
         return idBonAchat;
     }
